@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: SanJaYrOG/Outputs/.github/workflows/main.yml@main
+    uses: SanJaYrOG/needs/.github/workflows/main.yml@main
 
   job2:
     runs-on: ubuntu-latest
